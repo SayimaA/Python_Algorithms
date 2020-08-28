@@ -6,6 +6,8 @@ Efficient Algorithm : Using assignment and "for" loop to calculate and generate 
 
 Fun Fact : Fibonacci Numbers were originally created to model Rabbit population
 
+------------- Information Gathered below is from a problem statement at Hackerrank ------------------------------------------------------
+
 The original problem statment where Fibonacci series appears for the first time in modern period is a very interesting one. It was a book by Leonard of Pisa, also known as Fibonacci, named Liber Abaci (1202) which brought such intersting series to the popularity.
 
 Fibonacci considers the growth of an idealized (biologically unrealistic) rabbit population, assuming that: a newly born pair of rabbits, one male, one female, are put in a field; rabbits are able to mate at the age of one month so that at the end of its second month a female can produce another pair of rabbits; rabbits never die and a mating pair always produces one new pair (one male, one female) every month from the second month on. The puzzle that Fibonacci posed was: how many pairs will there be in one year?
